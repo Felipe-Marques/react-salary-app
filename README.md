@@ -17,3 +17,7 @@ Aluno: Felipe Marques.
 ## Imagem do Projeto
 
 ![React Salario](public/print-react-salario.png)
+
+## :octocat: Deploy:
+
+[Heroku](https://react-salary-app.herokuapp.com/)

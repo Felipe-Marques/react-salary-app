@@ -20,4 +20,4 @@ Aluno: Felipe Marques.
 
 ## :octocat: Deploy:
 
-[Heroku](https://react-salary-app.herokuapp.com/)
+[Vercel](https://react-salary-app.vercel.app/)
